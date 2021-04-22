@@ -10,4 +10,5 @@ I design 3 screens first one is a welcome screen like then user open your app it
 
 ### Auth UI
 
-![App UI](/)
+![App UI](/sample1.png,sample2.png)
+
