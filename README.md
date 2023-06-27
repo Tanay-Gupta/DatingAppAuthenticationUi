@@ -23,7 +23,7 @@ The app uses a modern and minimalist design that is both easy to use and visuall
 ## Screenshots
 
 ![App Screenshot](/s1.png)
-![App Screenshot](/s2.png)
+![App Screenshot](/ss2.png)
 
 
 
